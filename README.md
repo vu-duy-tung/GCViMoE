@@ -5,7 +5,7 @@
 # Global Context Vision Mixture of Experts (GCViMoE)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Python 3.8](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/) [![arXiv](https://img.shields.io/badge/📝-Paper-red)]()
 
-This repository presents the PyTorch implementation of **Global Context Vision Mixture of Experts** (GCViMoE), a project conducted in the scope of Computer Vision course - COMP3040 final project. 
+This repository presents the PyTorch implementation of **Global Context Vision Mixture of Experts** (GCViMoE), a project conducted under the scope of Computer Vision course - COMP3040 final project. 
 </div>
 
 The main block in the architecture of GCViMoE is demonstrated in the following:
