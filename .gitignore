@@ -1,0 +1,10 @@
+**/__pycache__/**
+
+# ignore ImageNet folders/files
+imagenet/
+tiny-imagenet-200.zip
+
+# ignore log folder
+log_dir/
+
+output/
